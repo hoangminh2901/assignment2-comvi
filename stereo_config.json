@@ -1,1 +1,1 @@
-{"numDisparities": [6, 17], "blockSize": [15, 50], "preFilterType": [1, 1], "preFilterSize": [0, 25], "preFilterCap": [9, 62], "textureThreshold": [0, 100], "uniquenessRatio": [0, 100], "speckleRange": [0, 100], "speckleWindowSize": [0, 25], "disp12MaxDiff": [0, 25], "minDisparity": [21, 25]}
+{"numDisparities": 1, "blockSize": 3, "P1": 1714, "P2": 14400, "preFilterCap": 0, "uniquenessRatio": 1, "speckleRange": 3, "speckleWindowSize": 6, "disp12MaxDiff": 25, "minDisparity": 2}
